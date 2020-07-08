@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/alexbrainman/odbc/api"
+	"github.com/rafaeldihl/odbc/api"
 )
 
 type Conn struct {
